@@ -1,0 +1,4 @@
+pandas
+numpy==1.23.3
+feast==0.21.3
+scikit-learn==0.22
